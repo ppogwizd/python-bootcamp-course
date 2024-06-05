@@ -14,4 +14,4 @@ Below is the list of projects currently included in this repository:
 
 ### 1. Tic-Tac-Toe Game
 - **Description:** Implementation of the classic Tic-Tac-Toe game where two players take turns marking spaces in a 3x3 grid to achieve a winning pattern.
-- **Directory:** [Tic-Tac-Toe-Game](https://github.com/ppogwizd/Research-Workshops-Projects/tree/main/Tic-Tac-Toe-Game)
+- **Directory:** [Tic-Tac-Toe-Game](https://github.com/ppogwizd/python-bootcamp-course/tree/main/Tic-Tac-Toe-Game)
